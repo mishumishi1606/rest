@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    
+}
+.sign{
+    color: black;
+    text-decoration: none;
+    padding-top: 20px;
+display: inline-block;
+width: 700px;
+block-size: 100px;
+font-size: larger;
+
+}
+form input{
+    width: 250px;
+    height: 35px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: left;
+ }
+ form button{
+    color: rgb(235, 232, 232);
+    background-color: black;
+ }
+ .footer div h1{ 
+ letter-spacing: 1;
+ }
